@@ -28,7 +28,7 @@ img {
 
 
 #notice {
-    color: white !important;
+    color: red !important;
     border: 2px solid red;
     padding: 1em;
     margin-bottom: 2em;
